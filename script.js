@@ -3,7 +3,7 @@
 // TODO 4: ¿Qué tiene tu piñata adentro?
 // Pon cada cosa entre comillas y sepáralas con comas. En el celular puedes usar el teclado de emojis.
 // Ejemplo: const dulces = ['🍬', '🍭', '🥜', '🍊', '🦖'];
-const dulces = ['🍬', '🍭', '🍫', '🥜', '🍊', '🍡'];
+const dulces = ['🤖', '🧑‍💻', '✅', '🛡️', '⚡'];
 
 // TODO 5: ¿Cuántos picos tiene tu piñata?
 // La piñata tradicional tiene 7. Prueba con un número del 3 al 12.
